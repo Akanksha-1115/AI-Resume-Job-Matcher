@@ -1,0 +1,11 @@
+# Core Machine Learning & Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# PDF Extraction
+PyMuPDF>=1.23.0
+
+# Interactive Web Application
+streamlit>=1.28.0
